@@ -1,0 +1,77 @@
+Program Description,Offering Units(s),Major,Concentration,Totals
+African-American Studies,Institute for Research in African American Studies,10,4,14
+American Studies,American Studies,8,3,11
+Anthropology,Anthropology,6,3,9
+Applied Mathematics,Mathematics,10,0,10
+Archaeology,Archaeology,0,1,1
+Architecture,Architecture (Barnard),12,0,12
+Art History,Art History and Archaeology,14,9,23
+Art History and Visual Arts,Art History and Archaeology - Visual Arts (SOA)*,2,0,2
+Astronomy,Astronomy,5,0,5
+Astrophysics,Astronomy - Physics*,12,0,12
+Biochemistry,Biological Sciences - Chemistry*,13,0,13
+Biology,Biological Sciences - Chemistry*,51,5,56
+Biophysics,Biological Sciences - Physics*,4,0,4
+Chemistry,Chemistry,5,3,8
+Classics,Classics,7,2,9
+Comparative Literature and Society,Institute for Comparative Literature and Society,13,0,13
+Computer Science,Computer Science,95,38,133
+Computer Science and Mathematics,Computer Science - Mathematics*,11,0,11
+Creative Writing,Writing: Undergraduate (School of the Arts),34,0,34
+Dance,Dance (Barnard),6,0,6
+Data Science,Computer Science - Statistics*,6,0,6
+Drama and Thetre Arts,Drama and Theatre Arts,8,0,8
+Earth Sciences,Earth and Envrionmental Sciences,2,2,4
+East Asian Studies,East Asian Languages and Cultures,18,19,37
+Economics,Economics,102,26,128
+Economics-Mathematics ,Economics- Mathematics*,20,0,20
+Economics-Philosophy,Economics - Philosophy*,9,0,9
+Economics-Political Science,Economics - Political Science*,20,0,20
+Economics-Statistics,Economics - Statistics*,1,0,1
+English,English and Comparative Literature,54,9,63
+Environmental Biology ,"Ecology, Evolution, and Environmental Biology",8,3,11
+Evironmental Chemistry,Chemistry,1,0,1
+Environmental Science,Earth and Envrionmental Sciences,6,2,8
+Ethnicity and Race Studies,Center for the Study of Ethnicity and Race,6,14,20
+Evolutionary Biology of the Human Species,"Ecology, Evolution, and Environmental Biology",3,4,7
+Film and Media Studies,Film (School of the Arts),31,0,31
+Financial Economics,Economics,76,0,76
+French,French and Romance Philology,2,3,5
+French and Francophone Studies,French and Romance Philology,0,4,4
+German Literature and Cultural History,Germanic Languages,3,1,4
+Hispanic Studies,Latin American and Iberian Cultures,3,10,13
+History,History,65,22,87
+History and Theory of Architecture,Art History and Archaeology,3,0,3
+Human Rights,Human Rights,14,5,19
+Information Sciences,Computer Science,6,0,6
+Latin-American and Caribbean Studies,Latin American and Caribbean Regional Studies,1,3,4
+Linguistics,Linguistics,9,0,9
+Mathematics,Mathematics,33,27,60
+Mathematics-Statistics,Mathematics - Statistics*,10,0,10
+Medical Humanities,Institute for Comparative Literature and Society,6,0,6
+"Middle Eastern, South Asian, and African Studies","Middle Eastern, South Asian, and African Studies",9,4,13
+Music,Music,13,3,16
+Neuroscience and Behavior,Biological Sciences - Psychology*,67,0,67
+Philosophy,Philosophy,29,12,41
+Physics,Physics,12,3,15
+Political Science,Political Science,142,10,152
+Political Science - Statistics,Political Science - Statistics*,8,0,8
+Portugeuse,Latin American and Iberian Cultures,0,1,1
+Psychology,Psychology,81,36,117
+Religion,Religion,3,2,5
+Russian Languages and Culture,Slavic Languages,1,3,4
+Russian Literature and Culture,Slavic Languages,1,3,4
+Slavic Studies,Slavic Languages,0,2,2
+Sociology,Sociology,21,17,38
+Statistics,Statistics,4,14,18
+Sustainable Development,Earth Institutte,30,0,30
+Urban Studies,Urban Studies,10,0,10
+Visual Arts,Visual Arts (School of the Arts),9,11,20
+Women's and Gender Studies,"Women, Gender, and Sexuality Studies",1,0,1
+Yiddish Studies,Germanic Languages,1,0,1
+Grand Totals,,1286,343,1629
+Total Number of Degrees Awarded,,,,1203
+,,,,
+* Program of Study is offered by more than one offering unit,,,,
+"""Total number of degrees awarded"" only counts first majors for Bachelor's degrees",,,,
+"""Grand Totals"" for all programs double-ciunts students who graduate in more than one program",,,,
